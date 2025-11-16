@@ -34,31 +34,31 @@ A modern task management application built with Flutter that connects service pr
 ## 📱 Screenshots
 
 ### Welcome & Onboarding
-![Onboarding Screen](docs/screenshots/onboarding.png)
+![Onboarding Screen](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/onboarding.png)
 *Welcome screen with Connect branding and social login options*
 
 ### Authentication
-![Login Screen](docs/screenshots/login.png)
+![Login Screen](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/login.png)
 *Clean and modern login interface with Dino mascot*
 
 ### Main Dashboard
-![Main Screen](docs/screenshots/main-screen.png)
+![Main Screen](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/main-screen.png)
 *Home screen showing task categories, filters, and quick access to post tasks*
 
 ### Task Posting - Location Selection
-![Location Selection](docs/screenshots/location-selection.png)
+![Location Selection](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/location-selection.png)
 *Interactive map for selecting task location with search functionality*
 
 ### Task Posting - Scheduling
-![Task Scheduling](docs/screenshots/task-scheduling.png)
+![Task Scheduling](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/task-scheduling.png)
 *Schedule your tasks with flexible date and time options*
 
 ### Map View
-![Map View](docs/screenshots/map-view.png)
+![Map View](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/map-view.png)
 *Interactive map showing available tasks with pricing and distance*
 
 ### AI Assistant - Dino
-![AI Assistant](docs/screenshots/ai-assistant.png)
+![AI Assistant](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/ai-assistant.png)
 *Chat with Dino, your AI guide for navigating the Connect app*
 
 ## 🛠️ Technology Stack
