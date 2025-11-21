@@ -172,7 +172,7 @@ lib/
 └── main.dart                # App entry point
 ```
 
-## 🧪 Testing
+##  Testing
 
 Run the test suite:
 
@@ -256,7 +256,7 @@ If you need help or have questions:
 - **Issues**: Create an issue on [GitHub](https://github.com/hassan689/connect-open-source/issues)
 - **Security**: Report security issues via [SECURITY.md](SECURITY.md)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Flutter Team](https://flutter.dev/) for the amazing framework
 - [Firebase](https://firebase.google.com/) for backend services
