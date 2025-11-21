@@ -47,12 +47,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBl4ikRe1Udu0OdtsGD3arTjZjFm9EUqKo',
-    appId: '1:718569523487:web:3847b4f967fa162f2bc82a', // Using Android app ID format as fallback
-    messagingSenderId: '718569523487',
-    projectId: 'linkster-ad331',
-    authDomain: 'linkster-ad331.firebaseapp.com',
-    storageBucket: 'linkster-ad331.firebasestorage.app',
+    apiKey: '',
+    appId: '', // Using Android app ID format as fallback
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
     measurementId: 'G-XXXXXXXXXX',
   );
 
