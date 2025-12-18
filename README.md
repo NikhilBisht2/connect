@@ -35,17 +35,17 @@ Note: you can download the apk from the landing page :)
 
 ## 📱 Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-  <img src="https://github.com/user-attachments/assets/3db1f61f-f73b-4129-9b8e-bd832caaa1a6" width="250" height="1200"/>
-  <img src="https://github.com/user-attachments/assets/86fef8da-f41c-4e9a-b122-ddf55ab7c010" width="250"/>
-  <img src="https://github.com/user-attachments/assets/e62a061a-2324-4cc9-99a3-629c9cd491a5" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3db1f61f-f73b-4129-9b8e-bd832caaa1a6" width="150" height="1800"/>
+  <img src="https://github.com/user-attachments/assets/86fef8da-f41c-4e9a-b122-ddf55ab7c010" width="150"/>
+  <img src="https://github.com/user-attachments/assets/e62a061a-2324-4cc9-99a3-629c9cd491a5" width="150"/>
 
-  <img src="https://github.com/user-attachments/assets/f72d799f-402a-4e03-9e63-e1f4fdb5a628" width="250"/>
-  <img src="https://github.com/user-attachments/assets/4ee012cb-e850-4a02-ad25-5f746a749545" width="250"/>
-  <img src="https://github.com/user-attachments/assets/6c1601f3-a5b1-441e-8520-ec7ec5802e7e" width="250"/>
+  <img src="https://github.com/user-attachments/assets/f72d799f-402a-4e03-9e63-e1f4fdb5a628" width="150"/>
+  <img src="https://github.com/user-attachments/assets/4ee012cb-e850-4a02-ad25-5f746a749545" width="150"/>
+  <img src="https://github.com/user-attachments/assets/6c1601f3-a5b1-441e-8520-ec7ec5802e7e" width="150"/>
 
-  <img src="https://github.com/user-attachments/assets/7e1de8f6-7e97-49d0-add5-eef69c74f601" width="250"/>
+  <img src="https://github.com/user-attachments/assets/7e1de8f6-7e97-49d0-add5-eef69c74f601" width="150"/>
 
 </div>
 
