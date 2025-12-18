@@ -1,5 +1,5 @@
 # Connect - Task Management App
-[![CI/CD Pipeline](https://github.com/hassan689/connect-open-source/actions/workflows/ci.yml/badge.svg)](https://github.com/hassan689/connect-open-source/actions/workflows/ci.yml)
+[![CI/CD Pipeline](https://github.com/hassan689/connect-open-source/actions/workflows/ci.yml/badge.svg)](https://github.com/hassan689/connect/actions/workflows/ci.yml)
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.16.0-blue.svg)](https://flutter.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -252,7 +252,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you need help or have questions:
 
 - **Documentation**: Check our [docs](docs/) folder
-- **Issues**: Create an issue on [GitHub](https://github.com/hassan689/connect-open-source/issues)
+- **Issues**: Create an issue on [GitHub](https://github.com/hassan689/connect/issues)
 - **Security**: Report security issues via [SECURITY.md](SECURITY.md)
 
 ##  Acknowledgments
@@ -282,4 +282,4 @@ If you need help or have questions:
 
 **Made with ❤️ by the Connect Team**
 
-[GitHub Repository](https://github.com/hassan689/connect-open-source) | [Report Issue](https://github.com/hassan689/connect-open-source/issues)
+[GitHub Repository](https://github.com/hassan689/connect) | [Report Issue](https://github.com/hassan689/connect-open-source/issues)
