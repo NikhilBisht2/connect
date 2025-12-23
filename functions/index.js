@@ -326,8 +326,8 @@ exports.processScheduledNotifications = functions.firestore
       const message = {
         token: fcmToken,
         notification: {
-          title: content.title, // Fixed: content was undefined in original code, but focusing on logger replacement
-          body: content.body,   // Fixed: content was undefined in original code, but focusing on logger replacement
+          title: title,
+          body: body,
         },
         data: {
           type: 'scheduled_engagement',
